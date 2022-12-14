@@ -7,6 +7,9 @@
 - <img src="https://user-images.githubusercontent.com/90419674/187188835-06811af1-c09f-4115-b4ff-ab54020f4abf.gif" width="20px" valign="center"/> Know a bit about **C, HTML, CSS, JS, Python**<br> 
 - 👀 I’m interested in learning new things
 - 📫 Email: **paulbrinto@gmail.com**
+
+
+
 ## 🤹🏻‍♂️ My Skill Set:
 
 
