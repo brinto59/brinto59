@@ -33,6 +33,14 @@
   <img src="./gif/giphy.gif" width="100" height="80">
 </p>
 
+
+### :fire: My Stats
+
+<div id="stats" align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=brinto59&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brinto59&layout=compact&theme=vision-friendly-dark"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=brinto59&show_icons=true&theme=radical"/>
+</div>
 <!---
 brinto59/brinto59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
