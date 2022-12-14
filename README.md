@@ -18,8 +18,7 @@
   <img src="https://cdn.dribbble.com/users/783/screenshots/104300/shot_1295820312.gif" width="100" height="80">
   <img src="https://www.desarrollolibre.net/public/images/example//css/carrusel/carrusel-cubo-animado.gif" width="100" height="80">
 </p>
-<img src ="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="100" height="80">
-<iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
+
 <!---
 brinto59/brinto59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
