@@ -21,18 +21,11 @@
 
 
 
- <p float="left">
-  <!---
-<img src ="https://res.cloudinary.com/practicaldev/image/fetch/s--xVCufn18--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5nnkrcc3kixypm642opg.gif" width="100" height="80">
---->
-  <img src ="https://i.pinimg.com/originals/ca/00/60/ca0060f3414e6e20b75983acddafad53.gif"width="100" height="80">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" height="80">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MF5Cp2yD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/nyj855ggghu7rcc6ib7c.gif" width="100" height="80">
-  <img src="https://cdn.dribbble.com/users/783/screenshots/104300/shot_1295820312.gif" width="100" height="80">
-  <img src="https://www.desarrollolibre.net/public/images/example//css/carrusel/carrusel-cubo-animado.gif" width="100" height="80">
-  <img src="./gif/giphy.gif" width="100" height="80">
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,github,git,js,c,py,regex,vscode" />
+  </a>
 </p>
-
 
 ## :fire: My Stats
 
