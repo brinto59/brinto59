@@ -27,12 +27,6 @@
   </a>
 </p>
 
-## :fire: My Stats
-
-
-<div id="stats" align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=brinto59&theme=vue-dark&hide_border=true&border_radius=4.7&date_format=M%20j%5B%2C%20Y%5D" width="1000" height="200" />
-</div>
 <!---
 brinto59/brinto59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
