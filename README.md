@@ -1,6 +1,6 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=34A73A&background=000000FA&center=true&vCenter=true&width=1000&height=300&lines=Hi%2C+I'm+Basob+Paul;A+Frontend+Developer+%F0%9F%91%BE)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=34A73A&background=000000FA&center=true&vCenter=true&width=1000&height=300&lines=Hi%2C+I'm+Basob+Paul;A+Frontend+Developer+%F0%9F%91%BE)](https://git.io/typing-svg) -->
 
-## <img width="380" align="right" src="./gif/developer.gif" /> 
+<!-- <img width="380" align="right" src="./gif/developer.gif" /> -->
 
 - 👋 Hi, I’m Basob Paul 
 - 🏫 Currently Studying at Rajshahi University of Engineering and Technology.<br>
